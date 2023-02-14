@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 2 kali kali 4096 Feb 14 17:29 .
+drwxr-xr-x 6 kali kali 4096 Feb 14 15:19 ..
+-rwxr-xr-x 1 kali kali   32 Feb 14 15:19 0-hello_world
+-rwxr--r-- 1 kali kali   28 Feb 14 15:19 1-confused_smiley
+-rwxr--r-- 1 kali kali   28 Feb 14 15:19 2-hellofile
+-rwxr--r-- 1 kali kali   39 Feb 14 15:19 3-twofiles
+-rwxr--r-- 1 kali kali   35 Feb 14 16:44 4-lastlines
+-rwxr--r-- 1 kali kali   35 Feb 14 16:47 5-firstlines
+-rwxr--r-- 1 kali kali   36 Feb 14 17:18 6-third_line
+-rwxr--r-- 1 kali kali   75 Feb 14 17:21 7-file
+-rwxr--r-- 1 kali kali   36 Feb 14 17:29 8-cwd_state
+-rw-r--r-- 1 kali kali   12 Feb 14 17:21 \*\"Best School"\\*$?*****:)
+-rw-r--r-- 1 kali kali   63 Feb 14 17:03 iacta
+-rw-r--r-- 1 kali kali    0 Feb 14 17:29 ls_cwd_content
+-rw-r--r-- 1 kali kali   86 Feb 14 15:19 README.md
